@@ -8,6 +8,7 @@ class Demo2ApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("Hello, git!");
+        System.out.println("Hello, abcd");
     }
 
 }
